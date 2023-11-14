@@ -9,7 +9,10 @@ If you run the code, you will need to input a command among the following:
 - help, to get information about the commands
 - close, to close the program
 
-When you **add** a new product you will be asked to input the name of the product, the quantity to add, the purchase price and the selling price. When you update the quantity of a product you will only be asked the quantity to add to that product. \n
-When you **sell** a product you will be asked which product you want to sell and how much of it. After that you will be asked whether you want to add an additional sale or not. \n
-When you **list** the products, you will get a list of the products in stock, with their left quantities and selling prices. \n
+When you **add** a new product you will be asked to input the name of the product, the quantity to add, the purchase price and the selling price. When you update the quantity of a product you will only be asked the quantity to add to that product.
+
+When you **sell** a product you will be asked which product you want to sell and how much of it. After that you will be asked whether you want to add an additional sale or not.
+
+When you **list** the products, you will get a list of the products in stock, with their left quantities and selling prices.
+
 This is a basic software that I created as part of the final assignment of the first module of my master in Data Science.
